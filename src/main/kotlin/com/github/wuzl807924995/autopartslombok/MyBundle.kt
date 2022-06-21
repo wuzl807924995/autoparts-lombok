@@ -1,4 +1,4 @@
-package org.jetbrains.plugins.template
+package com.github.wuzl807924995.autopartslombok
 
 import com.intellij.DynamicBundle
 import org.jetbrains.annotations.NonNls
